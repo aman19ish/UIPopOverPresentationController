@@ -1,6 +1,6 @@
 ## UIPopOverPresentationController ##
 UIPopOverViewController in swift is writen in swift 3.1 and Use the xcode Version 8.3.2.
-
+For use this import the PopOverViewController folder into your project.
 For using this file create the instance of PopOverViewC class and inherit the `UIPopoverPresentationControllerDelegate` :
 ```swift
   var itemPopVC = PopOverViewC()
